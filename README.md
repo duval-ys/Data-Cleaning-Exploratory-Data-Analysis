@@ -5,11 +5,22 @@ A Cleaning and Descriptive Analysis that identifies Trends in the data
 ## Cleaning And Analytical Processes
 
  Removed Duplicates
+
  Calculated For Day Arrival
+
+
  Trimmed and cleaned the Name column and removed irregular spacings
+
+
  Calculated for Profit margins
+
+
  Merged Department and Region Column in Power Query  
+
+
  Performed other Statistical Operations
+
+
 
 ## Raw Data
 
